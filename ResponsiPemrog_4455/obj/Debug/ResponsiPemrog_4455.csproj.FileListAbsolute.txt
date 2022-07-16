@@ -1,0 +1,8 @@
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\obj\Debug\ResponsiPemrog_4455.csproj.AssemblyReference.cache
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\obj\Debug\ResponsiPemrog_4455.csproj.SuggestedBindingRedirects.cache
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\obj\Debug\ResponsiPemrog_4455.csproj.CoreCompileInputs.cache
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\bin\Debug\ResponsiPemrog_4455.exe.config
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\bin\Debug\ResponsiPemrog_4455.exe
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\bin\Debug\ResponsiPemrog_4455.pdb
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\obj\Debug\ResponsiPemrog_4455.exe
+F:\cobaresponsi\ResponsiPemrog_4455\ResponsiPemrog_4455\obj\Debug\ResponsiPemrog_4455.pdb
